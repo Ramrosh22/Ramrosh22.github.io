@@ -12,7 +12,7 @@ print("Markdown isn't as bad as I thought")
 ```
 ## Education
 Education | Year of Passing 
-----------|----------------
+----------|----------
 B-Tech    | 2027
 AISSCE    | 2023
 AISSE     | 2021
